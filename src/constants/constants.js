@@ -1,25 +1,25 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'CanniKood',
+    description: "Using React, Node.js, Express & MongoDB - Social Media Web App for Medical Cannabis Users & interested Party About - Reviewing, Cultivation , Share & Discussions",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://cannikood.co.il',
+    visit: 'https://cannikood.co.il',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'the-Harvaster',
+    description:"Using React for display TheHarvester tool with fetch json results from the tool using React.js, Python , Docker",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['React', 'Python', 'Docker'],
+    source: 'https://github.com/matanAMS/TheHarvester_Fronted',
+    visit: 'https://github.com/matanAMS/TheHarvester_Fronted',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'Heart2Heart',
+    description: "This is a Social App for charity using React-Native and ASP.NET Core",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2019, text: 'Began Software Engineering Studies', },
   { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Finished my studies and got out to the world', },
+  { year: 2022, text: 'Founded CanniKood.co.il', },
 ];

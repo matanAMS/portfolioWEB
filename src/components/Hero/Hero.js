@@ -12,7 +12,7 @@ const Hero = (props) => (
       I'm Matan Amsalem.
    </SectionTitle>
     <SectionText>
-      I'm a Software engineer with ability to learn and collaborate in rapidly changing environments and compositions.
+      I'm a Software Engineer with the ability to learn and collaborate in a rapidly changing environment and compositions.
       </SectionText>
       <Button onClick={()=> window.location= 'https://cannikood.co.il'}>
         Learn More
